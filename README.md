@@ -8,6 +8,7 @@
 - Construir protótipo final e navegável;
 - Disponibilizar um wireframe de baixa fidelidade;
 - O projeto será disponibilizado somente através de imagens;
+- Dentreo da pasta "Briefing", será disponibilizada a entrevista realizada para desenvolver o protótipo com base das necessidades do "cliente".
 
 #### Ferramentas utilizadas
 - Figma
